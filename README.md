@@ -4,7 +4,7 @@ Welcome to my evolving collection of Frontend Mentor projects! These represent m
 
 ## Explore Challenges
 
-- [Newbie Challenges](./ADVANCED.md)
+- [Newbie Challenges](./NEWBIE.md)
 - [Junior Challenges](./JUNIOR.md)
 - [Intermediate Challenges](./INTERMEDIATE.md)
 - [Advanced Challenge](./ADVANCED.md)
